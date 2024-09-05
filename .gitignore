@@ -1,0 +1,12 @@
+# Visual Studio related
+.vs/
+*.vsidx
+*.vscode
+
+# Build directories
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
